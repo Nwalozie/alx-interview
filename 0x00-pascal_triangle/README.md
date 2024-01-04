@@ -1,0 +1,1 @@
+Pascal’s triangle
