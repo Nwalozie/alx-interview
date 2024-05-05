@@ -7,7 +7,7 @@ Change comes from within
 def makeChange(coins, total):
     """
     Given a pile of cons of different values,
-    determine the fewest number of cons needed to meet a given amount total.
+    determine the fewest number of cons needed to meet a given amount  total.
     """
     if total <= 0:
         return 0
